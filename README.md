@@ -18,7 +18,6 @@ At Hoobank The Next, the focus is on making the process of finding the right cre
 ## Tech Stack
 
 - [React](https://reactjs.org/)
-- [Nextjs](https://nextjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Vercel](https://vercel.com/docs)
 - [TailwindCSS](https://tailwindcss.com/)
